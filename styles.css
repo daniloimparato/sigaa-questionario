@@ -1,0 +1,17 @@
+span[style="display:block;color:#00CC00;margin:10px;padding:10px;"]::before {
+  padding: 5px;
+  margin-bottom: 5px;
+  content: "CORRETA";
+  display: block;
+  background-color: #0c0;
+  color: #fff;
+}
+
+span[style="display:block;color:#CC0000;margin:10px;padding:10px;"]::before {
+  padding: 5px;
+  margin-bottom: 5px;
+  content: "INCORRETA";
+  display: block;
+  background-color: #c00;
+  color: #fff;
+}

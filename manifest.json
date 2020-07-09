@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+
+	"name": "Questionario corrigido SIGAA",
+	"version": "1.0",
+	"description": "Sinaliza se as respostas de um questionario estão corretas ou incorretas.",
+	"permissions": ["activeTab"],
+
+	"icons": {
+		"16": "icon/icon16.png",
+		"48": "icon/icon48.png",
+		"128": "icon/icon128.png"
+	},
+
+	"content_scripts": [
+		{
+			"css": ["styles.css"],
+			"matches": ["https://sigaa.ufrn.br/*"]
+		}
+	]
+}
