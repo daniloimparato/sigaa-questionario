@@ -6,7 +6,7 @@ Algumas vezes a correção de uma questão no SIGAA não possui comentário. Nes
 # Como usar
 1. [Faça o download deste repositório.](https://github.com/daniloimparato/sigaa-questionario/archive/master.zip)
 2. Descompacte o arquivo .zip baixado.
-2. Navegue até [chrome://extensions/](chrome://extensions/) e ative o modo desenvolvedor no canto superior direito.
+2. Navegue até `chrome://extensions/` e ative o modo desenvolvedor no canto superior direito.
 3. Clique em "carregar sem compactação" e escolha o diretório descompactado.
 
 # Antes:  
